@@ -1,4 +1,4 @@
-# Topics Discussed
+## Topics Discussed
 
 In [Adulting.md](https://github.com/ThatAlexTRM/adulting/blob/main/Adulting.md):
 * Personal Finance
@@ -11,12 +11,17 @@ In [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/MovingOut.md
 * Budget for moving out
 * General advice
 
-# Schedule
-
-There is no set schedule for edits.
-
-# About the Project
+## About the Project
 
 This is a write-up in Markdown about how to survive various things as an adult, e.g. moving out or general tips, tricks, and mechanics for the adult world.
 
-**If you would like to contribute to this project, please submit a pull request.**
+_If you would like to contribute to this project, please submit a pull request._
+
+### Schedule
+
+There is no set schedule for edits.
+
+### Editing
+
+The recommended .md editor is Zettlr.
+Please, for the sake of neatness, use \*\*BOLD** and \_italics_ as the standard format.
