@@ -11,6 +11,10 @@ In [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/MovingOut.md
 * Budget for moving out
 * General advice
 
+# Schedule
+
+There is no set schedule for edits.
+
 # About the Project
 
 This is a write-up in Markdown about how to survive various things as an adult, e.g. moving out or general tips, tricks, and mechanics for the adult world.
