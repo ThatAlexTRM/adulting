@@ -1,6 +1,6 @@
 # Moving Out – Guide and Checklist
 See [Adulting.md](https://github.com/ThatAlexTRM/adulting/blob/main/Adulting.md) for a more comprehensive guide on general day-to-day life.  
-Source: [u/kurt\_e\_clothier](https://www.reddit.com/user/kurt_e_clothier/) on [r/personalfinance](https://www.reddit.com/r/personalfinance/comments/bbvqqo/my_mother_recently_told_me_that_i_have_to_move/), among others.
+Source: [u/kurt\_e\_clothier](https://www.reddit.com/user/kurt_e_clothier/) on [r/personalfinance](https://www.reddit.com/r/personalfinance/comments/bbvqqo/my_mother_recently_told_me_that_i_have_to_move/).
 
 ## Stuff you need to be in possession of:
 - [ ] Social Security Card.
@@ -25,7 +25,7 @@ Source: [u/kurt\_e\_clothier](https://www.reddit.com/user/kurt_e_clothier/) on [
 
 ## Budget breakdown
 
-Source: [u/kurt\_e\_clothier](https://www.reddit.com/user/kurt_e_clothier/) on [r/personalfinance](https://www.reddit.com/r/personalfinance/comments/bbvqqo/my_mother_recently_told_me_that_i_have_to_move/).
+Source: u/kurt\_e\_clothier on r/personalfinance.
 
 > Depending upon where you live, $500 / wk is enough to survive, but you don't want to settle for that long term. My first apartment (in a suburb of St Louis, MO) was $650 / month + utilities, but there were much cheaper ones that weren't as nice. This was in 2008, so I'd imagine it's higher now, and you can eat healthy food even on a tight budget. You'll bring in about $2200 / month...
 > 
