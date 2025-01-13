@@ -1,4 +1,4 @@
-# Adulting
+# Adulting in the United States
 See [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/U.S./MovingOut.md) for a checklist and guide to moving out.
 
 ## Personal Finance
