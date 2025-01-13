@@ -1,5 +1,5 @@
 # Adulting
-See [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/MovingOut.md) for a checklist and guide to moving out.
+See [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/U.S./MovingOut.md) for a checklist and guide to moving out.
 
 ## Personal Finance
 ### Budgeting
