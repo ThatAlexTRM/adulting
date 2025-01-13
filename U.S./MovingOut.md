@@ -1,5 +1,5 @@
 # Moving Out – Guide and Checklist
-See [Adulting.md](https://github.com/ThatAlexTRM/adulting/blob/main/Adulting.md) for a more comprehensive guide on general day-to-day life.  
+See [Adulting.md](https://github.com/ThatAlexTRM/adulting/blob/main/U.S./Adulting.md) for a more comprehensive guide on general day-to-day life.  
 Source: [u/kurt\_e\_clothier](https://www.reddit.com/user/kurt_e_clothier/) on [r/personalfinance](https://www.reddit.com/r/personalfinance/comments/bbvqqo/my_mother_recently_told_me_that_i_have_to_move/).
 
 ## Stuff you need to be in possession of:
