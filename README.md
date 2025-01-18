@@ -1,6 +1,7 @@
 ## Topics Discussed
 
 The following generally applies to all countries in this repo
+
 Adulting:
 * Personal Finance
 * Cooking
