@@ -1,12 +1,13 @@
 ## Topics Discussed
 
-In [Adulting.md](https://github.com/ThatAlexTRM/adulting/blob/main/Adulting.md):
+The following generally applies to all countries in this repo
+Adulting:
 * Personal Finance
 * Cooking
 * Wellbeing
 * Education
 
-In [MovingOut.md](https://github.com/ThatAlexTRM/adulting/blob/main/MovingOut.md):
+Moving Out:
 * List of things needed to acquire/do/get
 * Budget for moving out
 * General advice
